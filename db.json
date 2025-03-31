@@ -7,12 +7,12 @@
         "MF": "UNKNOW"
       },
       "MID": "MID20260",
-      "MD": "IRF830B is N channel D Series Power MOSFET with VDSS = 550V, RDS = 1.5R, ID = 5A || SMPS || Welding ||  Induction heating || Motor drives || Battery chargers || Displays (LCD or plasma TV) ||Alternate Datasheet: ",
+      "MD": "IRF830B is N channel D Series Power MOSFET with VDSS = 550V, RDS = 1.5R, ID = 5A || SMPS || Welding ||  Induction heating || Motor drives || Battery chargers || Displays (LCD or plasma TV) ||Alternate Datasheet: || Ref : V24....",
       "MT": "Electronic Comp",
       "MQNT": 27,
       "MQATG": "#CLASS0",
       "ML": "102",
-      "MDS": "https://www.vishay.com/docs/91520/irf830b.pdf",
+      "MDS": "https://docs.google.com/gview?url=https://raw.githubusercontent.com/mylab2025/MID20260/main/irf830b.pdf&embedded=true",
       "MR": "https://docs.google.com/gview?url=https://raw.githubusercontent.com/mylab2025/MID20260/main/732200_en_A.1_3.pdf&embedded=true",
       "MaterialImages": [
         "https://media-hosting.imagekit.io/4b7936a1b6554914/WhatsApp%20Image%202025-03-29%20at%204.12.03%20PM.jpeg?Expires=1837852975&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=tO2op5c~qFlFcW1M2zoV-0TCCIR6Whw~DAa71gTl66837EFeE3fsniodWL0Z5RpC4kdUUoPA3yregAHRCADsgTFRN4ditsKIRf5MkD19pM35THpl48w4uNl50MH1Bo~XvKAgGu5zjh5IVnBCP5ACPF-ufJvO~kzNypNlSyD8--yiMGbP~2RpxyEgExuJmdsZkb9ArIpT4JK~IIm4qYvga9A2bZ7BN0qFXZK24E39K9XCBS9HlC0fC4L9tp0gFVVdQcSuc9~m8NMJd1XEL7bMb0ThI40AIq1ODNHutBN~tkaa93ryXnaRmy3InSmG1G5uZ7lBAp7Byzr3BP0f50fjiQ__",
