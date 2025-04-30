@@ -4,15 +4,15 @@
       "MaterialTitle": {
         "Name": "Power MOSFET (N-type)",
         "PN": "IRF830B",
-        "MF": "UNKNOW"
+        "MF": "ONSEMI / FAIRCHILD"
       },
       "MID": "MID20260",
-      "MD": "IRF830B is N channel D Series Power MOSFET with VDSS = 550V, RDS = 1.5R, ID = 5A || SMPS || Welding ||  Induction heating || Motor drives || Battery chargers || Displays (LCD or plasma TV) ||Alternate Datasheet: || Ref : V24....",
+      "MD": "IRF830B is N channel D Series Power MOSFET with VDSS = 550V, RDS = 1.5R, ID = 5A || SMPS || Welding ||  Induction heating || Motor drives || Battery chargers || Displays (LCD or plasma TV) ||OG Datasheet: https://rocelec.widen.net/view/pdf/qbjctfdfy7/FAIRS18184-1.pdf?t.download=true\u0026u=5oefqw || Ref : V24....",
       "MT": "Electronic Material",
       "MQNT": 27,
       "MQATG": "#CLASS_0",
       "ML": "102",
-      "MCost": 0,
+      "MCost": 60.48,
       "MDS": "https://docs.google.com/gview?url=https://raw.githubusercontent.com/mylab2025/MID20260/main/irf830b.pdf\u0026embedded=true",
       "MAF1": "",
       "MAF2": "",
