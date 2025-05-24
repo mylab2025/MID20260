@@ -7,22 +7,22 @@
         "MF": "ONSEMI / FAIRCHILD"
       },
       "MID": "MID20260",
-      "MD": "IRF830B is N channel D Series Power MOSFET with VDSS = 550V, RDS = 1.5R, ID = 5A || SMPS || Welding ||  Induction heating || Motor drives || Battery chargers || Displays (LCD or plasma TV) ||OG Datasheet: https://rocelec.widen.net/view/pdf/qbjctfdfy7/FAIRS18184-1.pdf?t.download=true\u0026u=5oefqw || Ref : V24....",
+      "MD": "IRF830B is N channel D Series Power MOSFET with VDSS = 550V, RDS = 1.5R, ID = 5A || SMPS || Welding ||  Induction heating || Motor drives || Battery chargers || Displays (LCD or plasma TV) ||OG Datasheet: https://rocelec.widen.net/view/pdf/qbjctfdfy7/FAIRS18184-1.pdf?t.download=true&u=5oefqw || Ref : V24....",
       "MT": "Electronic Material",
       "MQNT": 27,
+      "MCost": 60.48,
       "MQATG": "#CLASS_0",
       "ML": "102",
-      "MCost": 60.48,
-      "MDS": "https://docs.google.com/gview?url=https://raw.githubusercontent.com/mylab2025/MID20260/main/irf830b.pdf\u0026embedded=true",
+      "MDS": "https://docs.google.com/viewerng/viewer?url=https://raw.githubusercontent.com/mylab2025/MID20260/main/irf830b.pdf",
       "MAF1": "",
       "MAF2": "",
       "MAF3": "",
       "MAF4": "",
       "MAF5": "",
-      "MR": "https://docs.google.com/gview?url=https://raw.githubusercontent.com/mylab2025/MID20260/main/732200_en_A.1_3.pdf\u0026embedded=true",
+      "MR": "https://docs.google.com/viewerng/viewer?url=https://raw.githubusercontent.com/mylab2025/MID20260/main/732200_en_A.1_3.pdf",
       "MaterialImages": [
-        "https://media-hosting.imagekit.io/4b7936a1b6554914/WhatsApp%20Image%202025-03-29%20at%204.12.03%20PM.jpeg?Expires=1837852975\u0026Key-Pair-Id=K2ZIVPTIP2VGHC\u0026Signature=tO2op5c~qFlFcW1M2zoV-0TCCIR6Whw~DAa71gTl66837EFeE3fsniodWL0Z5RpC4kdUUoPA3yregAHRCADsgTFRN4ditsKIRf5MkD19pM35THpl48w4uNl50MH1Bo~XvKAgGu5zjh5IVnBCP5ACPF-ufJvO~kzNypNlSyD8--yiMGbP~2RpxyEgExuJmdsZkb9ArIpT4JK~IIm4qYvga9A2bZ7BN0qFXZK24E39K9XCBS9HlC0fC4L9tp0gFVVdQcSuc9~m8NMJd1XEL7bMb0ThI40AIq1ODNHutBN~tkaa93ryXnaRmy3InSmG1G5uZ7lBAp7Byzr3BP0f50fjiQ__",
-        "https://media-hosting.imagekit.io/b0b5659e025c4793/WhatsApp%20Image%202025-03-29%20at%204.12.03%20PM%20(1).jpeg?Expires=1837852975\u0026Key-Pair-Id=K2ZIVPTIP2VGHC\u0026Signature=OMGBRlT6MZTnC0ypZengxOjY9qh7KnF3XXpaUVO38DqNvuFjZ3mKczr0D1qbVNLet~K~wIha4LkIwYlfcgLJ0XY619DRUy3BjaknhMp0t3236y9OOMCmTzS73CzXdADADYGBODAP9FrdfGKh-cwXsMqFjx53ITh3MlEJYBbLrzdHwetyp9DFsHSHcqTHD8ct5IBK~DG5rOt1hJEX0xW0Q6WwCX7ZbrG-iruNH6G3Nr3inX9LJs6vEVgZgKHSdoxHdGnm-~h2-sK9Lm6PQcDVh8b09BdnzdWu8UFGO4f1W13udR4S~5mceTlpj9qTi9leImiZLkb6bK1VPcl4ZLsvmg__"
+        "https://raw.githubusercontent.com/mylab2025/MID20260/main/Screenshot 2025-05-24 171140.png",
+        "https://raw.githubusercontent.com/mylab2025/MID20260/main/Screenshot 2025-05-24 171157.png"
       ]
     }
   ]
